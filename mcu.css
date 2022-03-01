@@ -1,0 +1,17 @@
+.start
+{
+    height: 10%;
+	width: 100%;
+    background-color: rgb(21, 6, 230);
+ }
+ h1 {
+    color: rgb(253, 255, 253);
+    text-align: center;
+  }
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+body {
+    background-image: linear-gradient(to right top, #f13333, #d925d9, #1829c1, #f006f0, #fd0404);  
+}
